@@ -208,4 +208,4 @@ of this software to use, copy, modify, merge, and distribute freely.
 
 ---
 
-<p align="center">⭐ If this helped you, give it a star on GitHub!</p>
+<p align="center">⭐ Created by Zaid ALi!</p>
